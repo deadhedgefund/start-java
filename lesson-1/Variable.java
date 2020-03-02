@@ -8,6 +8,7 @@ public class Varible {
     	double Parameter6 = 2.554;
     	char Parameter7 = '\u0042';
     	boolean Parameter8 = true;
+      boolean Parameter8 = true;
 
        System.out.println("Parameter1="+Parameter1);
        System.out.println("Parameter2="+Parameter2);
@@ -18,4 +19,4 @@ public class Varible {
        System.out.println("Parameter7="+Parameter7);
        System.out.println("Parameter8="+Parameter8);
    }
-}\
+}
